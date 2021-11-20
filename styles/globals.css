@@ -1,16 +1,33 @@
-html,
-body {
+@import url('./fonts/Inter/Inter.css');
+
+*,
+*::after,
+*::before {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
   box-sizing: border-box;
+}
+
+textarea {
+  background-color: inherit;
+  color: inherit;
+  width: 100%;
+  height: 20ch;
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  padding: 0.5rem;
+  resize: vertical;
+  border: 1px solid;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+[data-theme='dark'] body {
+  color: #ecedee;
+  background-color: #121212;
 }
