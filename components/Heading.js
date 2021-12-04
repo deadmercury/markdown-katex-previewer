@@ -6,7 +6,7 @@ export default function Heading() {
       </h1>
       <style jsx>{`
         h1 {
-          font-family: 'Inter', sans-serif;
+          font-family: sans-serif;
           font-weight: 700;
           display: grid;
           font-size: 2.3rem;

@@ -28,7 +28,7 @@ export default function InputSection({ input, setInput }) {
           </div>
           <style jsx>{`
             label {
-              font-family: 'Inter', sans-serif;
+              font-family: sans-serif;
               font-size: 1.375rem;
               font-weight: 600;
             }
