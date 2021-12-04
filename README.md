@@ -1,6 +1,6 @@
 # Markdown + Katex Previewer
 
-A simple ad-hoc Markdown and Katex previewer. Deployed on Github Pages.
+A simple ad-hoc Markdown and Katex previewer. Deployed on [Github Pages](https://deadmercury.github.io/markdown-katex-previewer/).
 
 ## Stack
 
@@ -12,5 +12,9 @@ A simple ad-hoc Markdown and Katex previewer. Deployed on Github Pages.
 ## TODO:
 
 - Turn into pwa. Not done because of this [issue](https://github.com/shadowwalker/next-pwa/issues/295).
-- Follow up this [issue](https://github.com/vercel/next.js/issues/20097).
-- Currently deployed on Github Pages on /docs.
+
+## References
+
+- (CI/CD): Deploy Next.js (SSG) to GitHub Pages using GitHub Actions on [Youtube](https://www.youtube.com/watch?v=yRz8D_oJMWQ).
+
+- Deploy to GitHub Pages [Github Action](https://github.com/marketplace/actions/deploy-to-github-pages).
