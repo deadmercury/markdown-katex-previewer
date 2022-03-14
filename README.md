@@ -1,6 +1,6 @@
 # Markdown + Katex Previewer
 
-A simple ad-hoc Markdown and Katex previewer. Deployed on [Github Pages](https://deadmercury.github.io/markdown-katex-previewer/).
+A simple ad-hoc Markdown and Katex previewer. Deployed on [Github Pages](https://ranmerc.github.io/markdown-katex-previewer/).
 
 ## Stack
 

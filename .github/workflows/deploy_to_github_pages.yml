@@ -3,6 +3,7 @@ name: Deploy to Github Pages
 on:
   push:
     branches: [main]
+    path-ignore: README.md
   pull_request:
     branches: [main]
 
